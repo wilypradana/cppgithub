@@ -32,11 +32,13 @@ int main()
         if (jmlh < tot)
         {
             cout << "ups,jumlahnya kurang nih";
+            break;
         }
         else
         {
             kbln = jmlh - tot;
             cout << "kembalian kamu: " << kbln;
+            break;
         }
     case 2:
         cout << "masukan ukuran pakaian adat(20,35,45,50): ";
@@ -53,11 +55,13 @@ int main()
         if (jmlh < tot)
         {
             cout << "ups,jumlahnya kurang nih";
+            break;
         }
         else
         {
             kbln = jmlh - tot;
             cout << "kembalian kamu: " << kbln;
+            break;
         }
     case 3:
         cout << "masukan ukuran pakaian adat(20,35,45,50): ";
@@ -74,33 +78,15 @@ int main()
         if (jmlh < tot)
         {
             cout << "ups,jumlahnya kurang nih";
+            break;
         }
         else
         {
             kbln = jmlh - tot;
             cout << "kembalian kamu: " << kbln;
+            break;
         }
-    case 2:
-        cout << "masukan ukuran pakaian adat(20,35,45,50): ";
-        cin >> up;
-        cout << "masukan lama sewa pakaian adat: ";
-        cin >> ls;
-        cout << "NAMA PAKAIAN ADAT:PAKAIAN ADAT JAWA TENGAH " << endl;
-        cout << "UKURAN PAKAIAN ADAT: " << up << endl;
-        cout << "HARGA SEWA PERHARI: " << hsp << endl;
-        tot = ls * hsp;
-        cout << "JUMLAH SEWA YANG HARUS DIBAYAR: " << tot << endl;
-        cout << "BAYAR SEKARANG: ";
-        cin >> jmlh;
-        if (jmlh < tot)
-        {
-            cout << "ups,jumlahnya kurang nih";
-        }
-        else
-        {
-            kbln = jmlh - tot;
-            cout << "kembalian kamu: " << kbln;
-        }
+    
     }
 
     return 0;
