@@ -47,11 +47,13 @@ int main()
         if (jmlh < tot)
         {
             cout << "ups,jumlahnya kurang nih";
+            break;
         }
         else
         {
             kbln = jmlh - tot;
             cout << "kembalian kamu: " << kbln;
+             break;
         }
 
     case 2:
@@ -84,11 +86,13 @@ int main()
         if (jmlh < tot)
         {
             cout << "ups,jumlahnya kurang nih";
+             break;
         }
         else
         {
             kbln = jmlh - tot;
             cout << "kembalian kamu: " << kbln;
+             break;
         }
     case 3:
         cout << "masukan ukuran pakaian adat(20,35,45,50): ";
@@ -120,11 +124,13 @@ int main()
         if (jmlh < tot)
         {
             cout << "ups,jumlahnya kurang nih";
+             break;
         }
         else
         {
             kbln = jmlh - tot;
             cout << "kembalian kamu: " << kbln;
+             break;
         }
     }
 
