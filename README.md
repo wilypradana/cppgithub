@@ -24,7 +24,7 @@ Kode dalam repo ini disusun sedemikian rupa sehingga mudah dipahami dan dapat di
 Jika Anda menemukan kesalahan dalam implementasi rumus matematika atau ingin menambahkan implementasi rumus matematika baru yang berguna bagi komunitas, silakan buat pull request untuk memperbaiki atau menambahkannya.
 
 **Hak Cipta**
-Meskipun program ini adalah program sumber terbuka dan tidak memiliki hak cipta, namun jika Anda merasa terbantu dengan program ini dan ingin memberikan dukungan kepada pembuat, Anda dapat melakukan donasi dengan mengunjungi link berikut: [Beli Kopi](https://www.buymeacoffee.com/wxhzy) boleh dengan [traktir](https://trakteer.id/wily%20pradana/link) Cendol. Setiap donasi yang diberikan akan sangat dihargai dan membantu pengembangan program ini ke depannya. Terima kasih atas dukungan Anda!
+Meskipun program ini adalah program sumber terbuka dan tidak memiliki hak cipta, namun jika Anda merasa terbantu dengan program ini dan ingin memberikan dukungan kepada pembuat, Anda dapat melakukan donasi dengan mengunjungi link berikut: [Beli Kopi](https://www.buymeacoffee.com/wxhzy) atau [traktir](https://trakteer.id/wily%20pradana/link) Cendol. Setiap donasi yang diberikan akan sangat dihargai dan membantu pengembangan program ini ke depannya. Terima kasih atas dukungan Anda!
 
 
 
